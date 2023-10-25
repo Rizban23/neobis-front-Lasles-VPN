@@ -73,6 +73,7 @@ text-decoration: none;
     border-radius: 50px;
     border: 1px solid #F53855;
     background: #fff;
+    transition: .3s;
 }
 .user-button:hover{
     transform: scale(1.2);
