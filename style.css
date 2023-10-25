@@ -144,8 +144,9 @@ margin-bottom: 20px;
 
 .advantages{
     width: 100%;
-    /* margin-top: 78px; */
+     
 }
+
 .advantages-column{
     display: flex;
     align-items: center;
@@ -187,7 +188,7 @@ margin-bottom: 20px;
 .info{
     width: 100%;
     padding-bottom: 131px;
-    margin-top: 96px;
+    margin-top: 97px;
 }
 
 .info-inner{
